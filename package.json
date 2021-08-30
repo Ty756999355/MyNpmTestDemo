@@ -1,5 +1,5 @@
 {
-  "name": "mynpmtestdemo",
+  "name": "com.sufmcs.mynpmtestdemo",
   "version": "1.0.0",
   "description": "UnityNPM项目测试",
   "main": "index.js",
